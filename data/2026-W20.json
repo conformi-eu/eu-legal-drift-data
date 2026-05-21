@@ -1,0 +1,499 @@
+{
+  "schema": "conformi-eu-legal-drift/1",
+  "week_id": "2026-W20",
+  "iso_year": 2026,
+  "iso_week": 20,
+  "period_start": "2026-05-11",
+  "period_end": "2026-05-17",
+  "timezone": "UTC",
+  "new_acts_total": 35,
+  "by_type_code": {
+    "R": 21,
+    "D": 14
+  },
+  "by_type": {
+    "de": {
+      "Verordnung": 21,
+      "Beschluss": 14
+    },
+    "en": {
+      "Regulation": 21,
+      "Decision": 14
+    },
+    "fr": {
+      "Règlement": 21,
+      "Décision": 14
+    }
+  },
+  "amending_existing_total": 17,
+  "acts": [
+    {
+      "celex": "32026R0905",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [],
+      "label": "32026R0905"
+    },
+    {
+      "celex": "32026R0903",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [],
+      "label": "32026R0903"
+    },
+    {
+      "celex": "32026R0900",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [],
+      "label": "32026R0900"
+    },
+    {
+      "celex": "32026R0899",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [
+        "32020R0579"
+      ],
+      "label": "32026R0899"
+    },
+    {
+      "celex": "32026R0893",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [],
+      "label": "32026R0893"
+    },
+    {
+      "celex": "32026D0895",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-17",
+      "amends": [
+        "32020D2126"
+      ],
+      "label": "32026D0895"
+    },
+    {
+      "celex": "32026R1088",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [
+        "32021R0404"
+      ],
+      "label": "32026R1088"
+    },
+    {
+      "celex": "32026R1063",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [],
+      "label": "32026R1063"
+    },
+    {
+      "celex": "32026R1045",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [],
+      "label": "32026R1045"
+    },
+    {
+      "celex": "32026R0892",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [
+        "32010R0037"
+      ],
+      "label": "32026R0892"
+    },
+    {
+      "celex": "32026R0891",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [],
+      "label": "32026R0891"
+    },
+    {
+      "celex": "32026R0497",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [
+        "32023R2053"
+      ],
+      "label": "32026R0497"
+    },
+    {
+      "celex": "32026D1023",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-14",
+      "amends": [],
+      "label": "32026D1023"
+    },
+    {
+      "celex": "32026R1078",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-13",
+      "amends": [
+        "32019R0796"
+      ],
+      "label": "32026R1078"
+    },
+    {
+      "celex": "32026D1093",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-13",
+      "amends": [],
+      "label": "32026D1093"
+    },
+    {
+      "celex": "32026D1079",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-13",
+      "amends": [
+        "32019D0797"
+      ],
+      "label": "32026D1079"
+    },
+    {
+      "celex": "32026R1027",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [],
+      "label": "32026R1027"
+    },
+    {
+      "celex": "32026R1026",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [],
+      "label": "32026R1026"
+    },
+    {
+      "celex": "32026R0876",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [
+        "32005R0396"
+      ],
+      "label": "32026R0876"
+    },
+    {
+      "celex": "32026R0322",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [
+        "32020R0687"
+      ],
+      "label": "32026R0322"
+    },
+    {
+      "celex": "32026D1084",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [
+        "32021D1143"
+      ],
+      "label": "32026D1084"
+    },
+    {
+      "celex": "32026D1082",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [],
+      "label": "32026D1082"
+    },
+    {
+      "celex": "32026D1069",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [],
+      "label": "32026D1069"
+    },
+    {
+      "celex": "32026D1041",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [
+        "32008L0068"
+      ],
+      "label": "32026D1041"
+    },
+    {
+      "celex": "32024R1309",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-12",
+      "amends": [
+        "32015R2120"
+      ],
+      "label": "32024R1309"
+    },
+    {
+      "celex": "32026R1055",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [
+        "32014R0269"
+      ],
+      "label": "32026R1055"
+    },
+    {
+      "celex": "32026R0859",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [
+        "32006R1907"
+      ],
+      "label": "32026R0859"
+    },
+    {
+      "celex": "32026R0331",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [],
+      "label": "32026R0331"
+    },
+    {
+      "celex": "32026R0110",
+      "type": "R",
+      "type_label": {
+        "de": "Verordnung",
+        "en": "Regulation",
+        "fr": "Règlement"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [],
+      "label": "32026R0110"
+    },
+    {
+      "celex": "32026D1097",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [],
+      "label": "32026D1097"
+    },
+    {
+      "celex": "32026D1096",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [],
+      "label": "32026D1096"
+    },
+    {
+      "celex": "32026D1087",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [],
+      "label": "32026D1087"
+    },
+    {
+      "celex": "32026D1083",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [
+        "32014D0486"
+      ],
+      "label": "32026D1083"
+    },
+    {
+      "celex": "32026D1072",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [
+        "32014D0145"
+      ],
+      "label": "32026D1072"
+    },
+    {
+      "celex": "32026D1058",
+      "type": "D",
+      "type_label": {
+        "de": "Beschluss",
+        "en": "Decision",
+        "fr": "Décision"
+      },
+      "entry_into_force": "2026-05-11",
+      "amends": [
+        "31999D0070"
+      ],
+      "label": "32026D1058"
+    }
+  ],
+  "methodology": {
+    "de": "EUR-Lex CELLAR Sektor 3 (EU-Sekundärrecht: Verordnungen, Richtlinien, Beschlüsse, Empfehlungen). Erfasst Rechtsakte mit Inkrafttreten (entry_into_force) im Kalenderwochen-Intervall (Mo 00:00 – So 23:59 UTC). 'Ändert Bestehendes' = Akt referenziert via AMENDS einen bestehenden Rechtsakt. Konsolidierte Fassungen (Sektor 0) und Soft Law (Sektor 5) sind bewusst ausgeschlossen.",
+    "en": "EUR-Lex CELLAR sector 3 (EU secondary law: regulations, directives, decisions, recommendations). Counts acts with entry into force (entry_into_force) within the calendar-week interval (Mon 00:00 – Sun 23:59 UTC). 'Amends existing' = act references an existing legal act via AMENDS. Consolidated versions (sector 0) and soft law (sector 5) are deliberately excluded.",
+    "fr": "EUR-Lex CELLAR secteur 3 (droit dérivé de l'UE : règlements, directives, décisions, recommandations). Comptabilise les actes entrés en vigueur (entry_into_force) dans l'intervalle de la semaine calendaire (lun. 00:00 – dim. 23:59 UTC). « Modifie l'existant » = l'acte référence un acte juridique existant via AMENDS. Les versions consolidées (secteur 0) et le droit souple (secteur 5) sont délibérément exclus."
+  },
+  "citation": {
+    "de": "EU Legal Drift Monitor (2026-W20): 35 neue EU-Sekundärrechtsakte in Kraft getreten (21 Verordnung, 14 Beschluss). 17 davon ändern bestehende Rechtsakte. Quelle: Conformi, EUR-Lex CELLAR Sektor 3.",
+    "en": "EU Legal Drift Monitor (2026-W20): 35 new EU secondary-law acts entered into force (21 Regulations, 14 Decisions). 17 of which amend existing legal acts. Source: Conformi, EUR-Lex CELLAR sector 3.",
+    "fr": "EU Legal Drift Monitor (2026-W20): 35 nouveaux actes de droit dérivé de l'UE entrés en vigueur (21 Règlements, 14 Décisions). 17 d'entre eux modifient des actes juridiques existants. Source : Conformi, EUR-Lex CELLAR secteur 3."
+  },
+  "source": "EUR-Lex CELLAR SPARQL (publications.europa.eu)",
+  "license": "CC BY 4.0",
+  "data_as_of": "2026-05-21T02:15:44.123237+00:00",
+  "generated_at": "2026-05-21T07:42:36.330391+00:00"
+}

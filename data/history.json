@@ -1,0 +1,18 @@
+{
+  "schema": "conformi-eu-legal-drift-history/1",
+  "updated_at": "2026-05-21T07:42:36.330949+00:00",
+  "weeks": {
+    "2026-W20": {
+      "week_id": "2026-W20",
+      "period_start": "2026-05-11",
+      "period_end": "2026-05-17",
+      "new_acts_total": 35,
+      "by_type_code": {
+        "R": 21,
+        "D": 14
+      },
+      "amending_existing_total": 17,
+      "data_as_of": "2026-05-21T02:15:44.123237+00:00"
+    }
+  }
+}
